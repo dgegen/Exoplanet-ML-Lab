@@ -12,4 +12,4 @@ A network for researchers using machine learning to discover and characterise ex
 ## Radial velocity
 | Title | Description | Architecture | Recourse | Code | Year |
 | ----- | ----------- | ------------ | -------- | ---- | ---- |
-| AESTRA |  Radial Velocity Estimation in the Presence of Stellar Activity | Autoencoder | [Paper](https://iopscience.iop.org/article/10.3847/1538-3881/ad0e01/meta) | [Rep.](https://github.com/yanliang-astro/aestra/tree/main) | 2019 |
+| AESTRA |  Radial Velocity Estimation in the Presence of Stellar Activity | Autoencoder | [Paper](https://iopscience.iop.org/article/10.3847/1538-3881/ad0e01/meta) | [Rep.](https://github.com/yanliang-astro/aestra/tree/main) | 2023 |
